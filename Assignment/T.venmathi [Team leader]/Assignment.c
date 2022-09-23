@@ -1,3 +1,4 @@
+
 #include <Servo.h>
 
 Int output1Value = 0;
@@ -62,4 +63,4 @@ Void loop()
   	{
     	digitalWrite(10, HIGH);
     delay(3000);
-    	digitalWrite(4, LOW);
+    	digitalWrite(4, LOW)
