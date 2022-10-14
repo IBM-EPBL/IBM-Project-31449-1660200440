@@ -1,0 +1,12 @@
+Checking Temperature: 88C 
+Checking Humidity: 82% 
+Temperature is 88C 
+Alarm Detected ...
+ 
+Checking Temperature: 40C 
+Checking Humidity: 62%
+ 
+Checking Temperature: 183C 
+Checking Humidity: 21% 
+Temperature is 183C 
+Alarm Detected ...
